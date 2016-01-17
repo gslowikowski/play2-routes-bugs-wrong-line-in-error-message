@@ -1,0 +1,7 @@
+[info] Loading project definition from {project.path}\play21\project
+[info] Set current project to helloworld (in build file:/{project.path}/play21/)
+[error] {project.path}\play21\conf\routes:6: Compilation error[Controller method call expected]
+[error] # This is a comment after the line with a bug (no controller method)
+[error]                                                            ^
+[error] (compile:sources) @6ongggk3b: Compilation error in {project.path}\play21\conf\routes:6
+[error] Total time: 1 s, completed 2016-01-17 12:03:23
